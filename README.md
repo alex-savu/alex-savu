@@ -15,7 +15,7 @@ I am currently pursuing a Master's degree in **Advanced Programming and Database
 ## Tech stack
 
 - **Frontend:** React, TypeScript, JavaScript, HTML, CSS
-- **Backend / Database:** MySQL
+- **Backend / Database:** Node.js, MySQL
 - **Tools:** Git, GitHub, VS Code, IntelliJ IDEA
 - **Other:** Responsive UI, debugging, problem solving, structured development
 
