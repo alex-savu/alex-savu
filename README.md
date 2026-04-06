@@ -1,42 +1,52 @@
-# Salut, eu sunt Alex 👋
+# Hi, I'm Alex Savu
 
-Sunt absolvent al Facultății de Informatică și Inginerie a Universității „1 Decembrie 1918” din Alba Iulia și masterand în Programare Avansată și Baze de Date, în cadrul aceleiași facultăți.
-Pasiunea mea pentru tehnologie merge mână în mână cu dorința de a învăța și de a mă perfecționa constant – mai ales în zona dezvoltării web și a securității aplicațiilor.
+Full-stack developer with a strong interest in building clean, practical web applications.  
+I am currently pursuing a Master's degree in **Advanced Programming and Databases** after completing my Bachelor's degree in **Computer Science**.
 
-În afara orelor de cod, mă regăsesc în muzică. Sunt DJ de evenimente și îmi place să creez atmosferă și energie în jurul meu. Cred că un echilibru între tehnic și creativ face diferența.
+## About me
+
+- MSc student in **Advanced Programming and Databases**
+- Bachelor's degree in **Computer Science**
+- Focused on **React, TypeScript, JavaScript, MySQL, HTML and CSS**
+- Interested in **full-stack web development**, application structure, and performance
+- Comfortable working independently and in team-based projects
+- English level: **B2**
+
+## Tech stack
+
+- **Frontend:** React, TypeScript, JavaScript, HTML, CSS
+- **Backend / Database:** MySQL
+- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA
+- **Other:** Responsive UI, debugging, problem solving, structured development
+
+## Featured projects
+
+### OnlineReserve
+A web-based reservation platform built with a modern frontend stack, focused on booking flows, usability, and practical application structure.
+
+### EventBookingApp
+Android application for booking private event services, created as an academic portfolio project.
+
+### ProiectLicenta-DEMO-LIVE
+Bachelor’s degree project demo focused on a service booking experience with responsive web design.
+
+## What I’m working on
+
+I’m currently improving my portfolio with projects that better reflect:
+- real-world full-stack development
+- cleaner architecture
+- better UI/UX
+- stronger project presentation on GitHub
+
+## Goals
+
+- Build more polished production-style projects
+- Improve backend and database design skills
+- Strengthen portfolio quality for internship / junior developer opportunities
+
+## Contact
+
+- Email: **savualex46@gmail.com**
 
 ---
-
-## Ce mă pasionează în IT:
-
-- Construcția de aplicații web simple, funcționale și bine optimizate  
-- Explorarea framework-urilor și noilor tehnologii  
-- Testarea vulnerabilităților aplicațiilor (dintr-o perspectivă etică)  
-- Organizarea logică a codului și rezolvarea problemelor pas cu pas  
-
----
-
-## Tehnologii & unelte
-
-- 🖥️ HTML, CSS, JavaScript  
-- 🗄️ MySQL, baze de date relaționale  
-- 🔧 VS Code, Git, biblioteci și instrumente software  
-- 🧠 Soft skills: comunicare clară, adaptabilitate, calm sub presiune  
-
----
-
-## Proiecte recente
-
-- 🎓 **Licență**: Site pentru prestări servicii foto-video (frontend web + design responsive)  
- 
-
----
-
-## 📬 Mă poți găsi aici:
-
-- Email: [savualex46@gmail.com](mailto:savualex46@gmail.com)  
-- Instagram: [@_alex_savu_](https://www.instagram.com/_alex_savu_)  
-
----
-
-> „Încerc să devin cea mai bună versiune a mea, pas cu pas. Fie că e vorba de cod sau de muzică – îmi place să creez ceva care are impact.”
+> I like building useful things, improving them step by step, and turning ideas into clean, working products.
